@@ -1,0 +1,24 @@
+* 520ff62 (HEAD -> master, origin/master, origin/HEAD) developer's names
+* 151e081 Final Commit
+*   fe4014e Merge pull request #3 from Rui-FMF/Logging
+|\  
+| *   c64fd07 Merge branch 'master' into Logging
+| |\  
+| |/  
+|/|   
+* |   cbce7b5 Merge pull request #2 from Rui-FMF/Forec5Day
+|\ \  
+| * \   ca4a29d Merge branch 'master' into Forec5Day
+| |\ \  
+| |/ /  
+|/| |   
+* | |   77f05b3 Merge pull request #1 from Rui-FMF/CallByName
+|\ \ \  
+| * | | 0709208 first feature commit
+|/ / /  
+| * / 38786d5 second feature commit
+|/ /  
+| * 92d16ef Logging finished
+| * dc47f6d "Logging"
+|/  
+* bc55440 First Commit

@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+/home/pedroma/Desktop/Lab_02-IEs/Ex2.2/.metadata/.plugins/org.eclipse.jdt.core
+1436482715.index
+3031658671.index
+1463939014.index
+4051996745.index
+365727650.index
+347828897.index
+2629361084.index
+61623699.index
+1396330779.index
+3956336953.index
+646308851.index

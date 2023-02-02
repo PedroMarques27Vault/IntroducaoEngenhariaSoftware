@@ -1,0 +1,72 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Location API",
+    "description": "API that mocks location",
+    "version": "0.1"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000"
+    }
+  ],
+  "paths": {
+    "/gen-location/0,0": {
+      "get": {
+        "description": "Generates Location Given String Of 'x,y' where x=latitude  and y=longitude",
+        "responses": {
+          "200": {
+            "description": "Nearby Location Generated",
+            "content": {
+              "application/json; charset=utf-8": {
+                "schema": {
+                  "type": "string"
+                },
+                "examples": {}
+              }
+            }
+          }
+        },
+        "servers": [
+          {
+            "url": "http://localhost:3000"
+          }
+        ]
+      },
+      "servers": [
+        {
+          "url": "http://localhost:3000"
+        }
+      ]
+    },
+    "/": {
+      "get": {
+        "description": "Index Page",
+        "responses": {
+          "200": {
+            "description": "Instructions",
+            "content": {
+              "application/json; charset=utf-8": {
+                "schema": {
+                  "type": "string"
+                },
+                "examples": {}
+              }
+            }
+          }
+        },
+        "servers": [
+          {
+            "url": "http://localhost:3000"
+          }
+        ]
+      },
+      "servers": [
+        {
+          "url": "http://localhost:3000"
+        }
+      ]
+    }
+  },
+  "components": {}
+}

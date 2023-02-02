@@ -1,0 +1,61 @@
+User
+- id : int
+- email : string
+- pass : string
+- tipo : string
+- data de adesão : date
+- local : string (lat e long separados por vírgula)
+
+
+Cliente
+- primary key - foreign key User
+- username : string
+- nome : string
+- idade : int
+- sexo/genero : string
+- orientação sexual : string
+- bio : string
+- descrição : string 
+- gostos : string (interesses separados por vírgula)
+- imagemPerfil : string
+- estado : string
+
+Imagens
+- id : int
+- id user : foreign key / null
+- imagem : varbinary ?
+- nome : string
+
+Match
+- idClient1 : foreign key
+- idClient2 : foreign key
+
+
+Negócio
+- primary key - foreign key User
+- nome : string
+- endereço: string
+- descrição : string
+- tipoNegocio : string
+- estado: string	(aceite/pending/rejected/reported)
+
+Promoções
+- id : int
+- primary key negocio
+- titulo : string
+- descrição : string
+- código de promoção : string
+- imageID : foreign key Imagens
+
+Subscrição
+- id : int
+- idUser - foreign key
+- data de adesão : date
+- mensalidade : int
+- data de finalidade : date / null
+
+
+Admin instância de User
+
+
+

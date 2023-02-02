@@ -1,0 +1,37 @@
+2020-10-18 18:19:05,397 [weather.WeatherStarter.main()] INFO  weather.WeatherStarter - PORTO
+
+2020-10-18
+	Max Temp: 22.4ºC
+	Min Temp: 13.0ºC
+	Precipitation Probability: 0.0%
+	Longitude: -8.6294º
+	Latitude: 41.1580º
+
+2020-10-19
+	Max Temp: 22.1ºC
+	Min Temp: 16.4ºC
+	Precipitation Probability: 100.0%
+	Longitude: -8.6294º
+	Latitude: 41.1580º
+
+2020-10-20
+	Max Temp: 19.3ºC
+	Min Temp: 14.7ºC
+	Precipitation Probability: 100.0%
+	Longitude: -8.6294º
+	Latitude: 41.1580º
+
+2020-10-21
+	Max Temp: 17.6ºC
+	Min Temp: 13.5ºC
+	Precipitation Probability: 100.0%
+	Longitude: -8.6294º
+	Latitude: 41.1580º
+
+2020-10-22
+	Max Temp: 17.5ºC
+	Min Temp: 12.0ºC
+	Precipitation Probability: 75.0%
+	Longitude: -8.6294º
+	Latitude: 41.1580º
+

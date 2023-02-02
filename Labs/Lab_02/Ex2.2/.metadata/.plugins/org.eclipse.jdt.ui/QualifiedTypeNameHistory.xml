@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.eclipse.jetty.http.HttpTester.Request"/>
+    <fullyQualifiedTypeName name="org.eclipse.jetty.server.Request"/>
+    <fullyQualifiedTypeName name="org.eclipse.jetty.server.handler.AbstractHandler"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+</qualifiedTypeNameHistroy>
